@@ -1,2 +1,1 @@
 # tyger project
-sample
